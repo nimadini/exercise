@@ -1,0 +1,25 @@
+From 2d1e18a2f82fa5729cc3f343f6dc5fb74efe8fd1 Mon Sep 17 00:00:00 2001
+From: nimadini <nima.dini@gmail.com>
+Date: Tue, 7 Oct 2014 15:19:05 -0500
+Subject: [PATCH] French version first
+
+---
+ HelloWorld/src/HelloWorld.java | 2 +-
+ 1 file changed, 1 insertion(+), 1 deletion(-)
+
+diff --git a/HelloWorld/src/HelloWorld.java b/HelloWorld/src/HelloWorld.java
+index b316ea1..17e0676 100644
+--- a/HelloWorld/src/HelloWorld.java
++++ b/HelloWorld/src/HelloWorld.java
+@@ -1,7 +1,7 @@
+ 
+ public class HelloWorld {
+ 	public static void main( String [] args){
+-		System.out.println("Hello World!");
++		System.out.println("Bonjour, monde!");
+ 	}
+ 
+ }
+-- 
+1.9.1
+

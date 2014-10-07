@@ -1,0 +1,25 @@
+From a5157bd84e7f4eda8b1f32d91c90db33741bdfcd Mon Sep 17 00:00:00 2001
+From: nimadini <nima.dini@gmail.com>
+Date: Tue, 7 Oct 2014 15:11:10 -0500
+Subject: [PATCH] german version again
+
+---
+ HelloWorld/src/HelloWorld.java | 2 +-
+ 1 file changed, 1 insertion(+), 1 deletion(-)
+
+diff --git a/HelloWorld/src/HelloWorld.java b/HelloWorld/src/HelloWorld.java
+index b316ea1..0a9b78c 100644
+--- a/HelloWorld/src/HelloWorld.java
++++ b/HelloWorld/src/HelloWorld.java
+@@ -1,7 +1,7 @@
+ 
+ public class HelloWorld {
+ 	public static void main( String [] args){
+-		System.out.println("Hello World!");
++		System.out.println("Hallo Welt!");
+ 	}
+ 
+ }
+-- 
+1.9.1
+
